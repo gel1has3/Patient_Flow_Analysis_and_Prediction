@@ -1,5 +1,3 @@
-# Patient_Flow_Analysis_and_Prediction
-
 # Project-PF: Patient Flow Visualization in Ethiopia
 
 Coded: by Geletaw Sahle Tegenaw 
