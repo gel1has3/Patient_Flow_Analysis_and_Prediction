@@ -1,6 +1,10 @@
 # Project-PF: Patient Flow Visualization in Ethiopia
 
-Coded: by Geletaw Sahle Tegenaw 
+Coded: by Geletaw Sahle Tegenaw  
+
+Lang: Python, Sankey diagram
+
+Algo: SVM, RF
 
 ## Patient Flow
 
